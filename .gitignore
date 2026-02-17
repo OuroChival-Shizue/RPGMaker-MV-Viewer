@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.pyc
+games_registry.json
+games_registry.broken.*.json
+Java-RPG-Maker-MV-Decrypter-master/
+**/target/
+data_cache/
